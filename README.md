@@ -5,7 +5,7 @@ This tool is designed for visualizing signal strength and location data from the
 
 ### Prerequisites
 - Python 3.x
-- Libraries: pandas, sqlite3, simplekml, folium
+- Libraries: [pandas](https://github.com/pandas-dev/pandas), sqlite3, [simplekml](https://github.com/eisoldt/simplekml), [folium](https://github.com/python-visualization/folium)
 
 ### Installation
 Ensure that you have Python installed on your system. You can then install the required libraries using pip:
